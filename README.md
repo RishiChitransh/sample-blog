@@ -13,6 +13,6 @@ A sample blog using Strapi + Next.JS.
 - Copy the file "blog-strapi-export.tar.gz.enc" into you strapi project folder
 - Run the following command: "npm run strapi import -- -f blog-strapi-export.tar.gz.enc --key 123456"
 - Start  your strapi server - npm run develop
-- You shoul be able to see entities & collection types
+- You should be able to see entities & collection types
 
 ## Go to the UI - http://localhost:3000 - You should be able to see the blog.
